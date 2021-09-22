@@ -4,4 +4,5 @@ build
 *.classpath
 *.project
 bin/*
+app/bin/
 .vscode/*
